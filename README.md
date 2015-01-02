@@ -1,2 +1,2 @@
-Leathercraft
+LeatherCraft
 ============
