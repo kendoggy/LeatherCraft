@@ -1,0 +1,7 @@
+item.leathercraft:leatherCutter.name=Leather Cutter
+item.leathercraft:leatherStrip.name=Leather Strip
+item.leathercraft:drenchedLeather.name=Drenched Leather
+item.leathercraft:tannedLeather.name = Tanned Leather
+tile.leathercraft:tanner.name=Tanner
+tile.leathercraft:tannerHolder.name=Tanner Holder
+itemGroup.leathercraft=LeatherCraft

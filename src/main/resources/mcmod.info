@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LeatherCraft",
+  "name": "LeatherCraft",
+  "description": "an early game leather crafting mod",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "kendoggy"
+  ],
+  "credits": "pahimar for the coding know how",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
